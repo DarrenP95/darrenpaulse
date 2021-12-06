@@ -5,10 +5,11 @@ body{
 }
 
 header { 
+  text-emphasis-color: white;
   text-align: center;
   background-color: #343330;
   text-align: center;
-  font-display: white;
+  
   
   
 }
@@ -22,4 +23,5 @@ footer {
 
 
  menu { background-color: #a9ca12;
-  text-align: left; }
+  text-align: left; 
+width: fit-content;}
