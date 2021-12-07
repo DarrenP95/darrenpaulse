@@ -1,0 +1,26 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+}
+
+header { 
+  text-emphasis-color: white;
+  text-align: center;
+  background-color: #343330;
+  text-align: center
+  
+}
+
+
+
+footer {
+  background-color: #343330;
+  text-align: center;
+}
+
+
+ menu { background-color: #a9ca12;
+  text-align: left; 
+width: fit-content;}
+
