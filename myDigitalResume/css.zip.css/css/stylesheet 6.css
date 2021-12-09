@@ -1,0 +1,75 @@
+
+
+header { 
+  
+  text-align: center;
+  background-color:lightslategray;
+  text-align: center;
+  color: white;
+  border: white;
+  
+  
+  
+  
+}
+
+#headshot {
+  width: 200;
+  height: 200;
+  border:  lightseagreen  solid 10px;
+  border-radius: 50%;
+}
+
+.wrapper{
+  display: flex;
+
+}
+.sidebar{
+  flex:1;
+  height: 800px;
+  background-color: lightslategray;
+  color:white;
+  border: white solid;
+}
+.info{
+  flex:8;
+  height: 800px;
+  background-color:lightseagreen;
+  border: white solid;
+  }
+
+
+
+
+    
+
+
+  .footer {
+    background-color: lightslategray;
+    text-align: center;
+    color: white;
+    
+    }
+
+
+#icon{
+width: 3rem;
+margin: 2rem;
+}
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
